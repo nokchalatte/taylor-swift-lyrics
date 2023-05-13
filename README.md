@@ -1,5 +1,9 @@
-# Taylor Swift Lyric Scraper
+# Taylor Swift Lyrics and Analysis
 
-This dataset includes all Taylor Swift songs and their lyrics for analysis!
+## How to Use
 
-You can use it to scrape Taylor Swift songs yourself (or modify it to make it work for other artists!) or use the data found in `songs.csv` and `lyrics.csv`. Happy analysis!
+1. Create a `local.py` file with your Genius access token.
+
+## Acknowledgements
+
+Thank you very much to [@shaynak](https://github.com/shaynak) for the template!
