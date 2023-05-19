@@ -1,3 +1,4 @@
 local.py
 .vscode/*
 pyenv
+__pycache__

@@ -6,4 +6,4 @@
 
 ## Acknowledgements
 
-Thank you very much to [@shaynak](https://github.com/shaynak) for the template!
+Thank you very much to [@shaynak](https://github.com/shaynak) for inspiring this project!
